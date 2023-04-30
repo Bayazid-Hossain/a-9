@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "New Year",
+        "marks": 55 
+    },
+    {
+        "id": 2,
+        "name": "G3 Architects",
+        "marks": 50 
+    },
+    {
+        "id": 3,
+        "name": "Justice",
+        "marks": 60
+    },
+    {
+        "id": 4,
+        "name": "Problem Solve",
+        "marks": 58
+    },
+    {
+        "id": 5,
+        "name": "Geometry Genius",
+        "marks": 47
+    },
+    {
+        "id": 6,
+        "name": "Ai Universe",
+        "marks": 30
+    },
+    {
+        "id": 7,
+        "name": "Quiz hero",
+        "marks": 60
+    },
+    {
+        "id": 8,
+        "name": "Knowledge cafe",
+        "marks": 60
+    }
+]
+
+
